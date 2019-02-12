@@ -4,7 +4,7 @@
 
 series.html
 
-series2.html
+series-2.html
 
 #### 二、技术
 
