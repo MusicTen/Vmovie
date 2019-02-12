@@ -233,18 +233,3 @@ function checkReg(element, reg) {
 checkReg(phone, reg1);
 checkReg(password, reg2);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

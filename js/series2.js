@@ -171,17 +171,3 @@ series2Movie.onclick = function(){
   }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-

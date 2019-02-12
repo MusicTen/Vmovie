@@ -327,7 +327,6 @@
       $('<li><span class="fr"><p class="username">徐肇东</p><p>' + $('#review').val() + '</p><p class="tim">刚刚发布<i>回复</i></p></span><span class="apply">赞同<em></em></span><img class="via" src=' + arr[parseInt(Math.random() * 4)] + ' alt=""></li>').prependTo($('.tall'));
       $('.tall li').eq($('.tall li').length - 1).remove();
 
-
       var getColor = function () {
         return 'rgb(' + parseInt(Math.random() * 256) + ',' + parseInt(Math.random() * 256) + ',' + parseInt(Math.random() * 256) + ')'
       };
@@ -367,11 +366,7 @@
     $('#star li').click(function () {
       current = $(this).index();
     })
-
-
   });
-
-
 </script>
 </body>
 </html>
